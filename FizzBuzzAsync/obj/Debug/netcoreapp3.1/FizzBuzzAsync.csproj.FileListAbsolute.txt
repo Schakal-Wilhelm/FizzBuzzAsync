@@ -1,0 +1,11 @@
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\bin\Debug\netcoreapp3.1\FizzBuzzAsync.exe
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\bin\Debug\netcoreapp3.1\FizzBuzzAsync.deps.json
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\bin\Debug\netcoreapp3.1\FizzBuzzAsync.runtimeconfig.json
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\bin\Debug\netcoreapp3.1\FizzBuzzAsync.runtimeconfig.dev.json
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\bin\Debug\netcoreapp3.1\FizzBuzzAsync.dll
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\bin\Debug\netcoreapp3.1\FizzBuzzAsync.pdb
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\obj\Debug\netcoreapp3.1\FizzBuzzAsync.csprojAssemblyReference.cache
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\obj\Debug\netcoreapp3.1\FizzBuzzAsync.AssemblyInfoInputs.cache
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\obj\Debug\netcoreapp3.1\FizzBuzzAsync.AssemblyInfo.cs
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\obj\Debug\netcoreapp3.1\FizzBuzzAsync.dll
+D:\dev\FizzBuzzAsync\FizzBuzzAsync\obj\Debug\netcoreapp3.1\FizzBuzzAsync.pdb
